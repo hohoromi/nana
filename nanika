@@ -1,0 +1,21 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Mocha Tests</title>
+  <link href="./test.css" rel="stylesheet" />
+  <link href="https://unpkg.com/mocha@4.0.1/mocha.css" rel="stylesheet" />
+  <script src="https://unpkg.com/scrollbooster@2/dist/scrollbooster.min.js"></script>
+  <script  src="test.js"></script>
+</head>
+
+<body>
+
+  <div class="waku">
+    <h1>hohoromi</h1>
+  </div>
+
+
+</body>
+
+</html>
